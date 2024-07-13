@@ -1,15 +1,9 @@
 # Conversor de Moedas
- <p align="center">
-    <img src="./.github/Badge-Conversor.png" alt="Calculadora de Conversão de Moedas">
-  </p>
 
 ## Sobre o projeto
 
 Este é um projeto desenvolvido como parte do Challenge ONE do curso Alura: ONE Oracle Next Education T6.
 O objetivo é criar um conversor de moedas que permite a conversão entre moedas, utilizando a Exchange Rate API para obter as taxas de câmbio mais recentes.
-
-## Preview
-![preview.png](.github/preview.png)
 
 ## Funcionalidades
 
